@@ -338,7 +338,7 @@ pre {
   color: #fff !important;
 }
 .optionsBtn {
-  background-color: !important;
+  background-color: blue;
 }
 .optionsBtn:hover {
   opacity: 0.9;
